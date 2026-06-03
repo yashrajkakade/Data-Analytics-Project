@@ -168,7 +168,7 @@ customer-shopping-analytics/
 
 If you found this project useful or have suggestions, feel free to connect!
 
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yashraj-somnath-kakade/))](https://www.linkedin.com/in/yashraj-somnath-kakade/)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/yashraj-somnath-kakade])
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yashrajkakade)
 
